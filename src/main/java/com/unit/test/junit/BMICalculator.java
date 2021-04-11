@@ -1,4 +1,4 @@
-package com.unit.test;
+package com.unit.test.junit;
 
 import java.util.Comparator;
 import java.util.List;

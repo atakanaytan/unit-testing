@@ -1,4 +1,4 @@
-package com.unit.test;
+package com.unit.test.junit;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.condition.DisabledOnOs;

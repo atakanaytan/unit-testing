@@ -1,4 +1,4 @@
-package com.unit.test.RealEstateApp;
+package com.unit.test.junit.RealEstateApp;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
