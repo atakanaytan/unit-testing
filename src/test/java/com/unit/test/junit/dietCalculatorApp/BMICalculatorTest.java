@@ -1,4 +1,4 @@
-package com.unit.test.junit;
+package com.unit.test.junit.dietCalculatorApp;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.condition.DisabledOnOs;

@@ -1,6 +1,10 @@
-package com.unit.test.junit;
+package com.unit.test.junit.dietCalculatorApp;
 
 
+import com.unit.test.junit.dietCalculatorApp.Coder;
+import com.unit.test.junit.dietCalculatorApp.DietPlan;
+import com.unit.test.junit.dietCalculatorApp.DietPlanner;
+import com.unit.test.junit.dietCalculatorApp.Gender;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

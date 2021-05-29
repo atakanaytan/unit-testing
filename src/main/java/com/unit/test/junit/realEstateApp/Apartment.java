@@ -1,4 +1,4 @@
-package com.unit.test.junit.RealEstateApp;
+package com.unit.test.junit.realEstateApp;
 
 import java.math.BigDecimal;
 

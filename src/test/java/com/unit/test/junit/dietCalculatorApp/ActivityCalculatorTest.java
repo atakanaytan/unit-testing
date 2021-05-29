@@ -1,5 +1,6 @@
-package com.unit.test.junit;
+package com.unit.test.junit.dietCalculatorApp;
 
+import com.unit.test.junit.dietCalculatorApp.ActivityCalculator;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
 

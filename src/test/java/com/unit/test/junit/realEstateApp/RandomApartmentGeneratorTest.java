@@ -1,4 +1,4 @@
-package com.unit.test.junit.RealEstateApp;
+package com.unit.test.junit.realEstateApp;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.RepeatedTest;

@@ -1,4 +1,4 @@
-package com.unit.test.junit;
+package com.unit.test.junit.dietCalculatorApp;
 
 import java.util.Comparator;
 import java.util.List;
