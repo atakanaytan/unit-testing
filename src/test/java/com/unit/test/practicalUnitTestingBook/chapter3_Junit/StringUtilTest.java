@@ -1,4 +1,4 @@
-package com.unit.test.practicalUnitTestingBook;
+package com.unit.test.practicalUnitTestingBook.chapter3_Junit;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
